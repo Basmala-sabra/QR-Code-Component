@@ -16,7 +16,7 @@ OR:
 
 ## Live Demo
 
-🔗 [View Project Online](https://yourusername.github.io/your-repo/)
+🔗 View Project Online  (https://basmala-sabra.github.io/QR-Code-Component/)
 
 ## license
 
