@@ -6,7 +6,7 @@
 body {
   background-color: #d5e1ef;
   display: flex;
-  justify-content: center;
+  justify-content: center; /* it will work at the main axes by default. */
   align-items: center;
   height: 100vh;
 }
